@@ -1,3 +1,6 @@
+##############[Under Development, Just has Framework for Now]##############
+
+
 🌍 EcoMetricAI – Your Personal Carbon Footprint Tracker 🌱
 An AI-powered web application that helps individuals and businesses track, understand, and reduce their carbon footprint. By analyzing daily activities — from transportation to food choices — EcoMetricAI calculates carbon emissions and offers actionable insights to promote a more sustainable lifestyle.
 
